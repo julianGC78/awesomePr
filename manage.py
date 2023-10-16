@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#estoy corriguinedo un error
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'locallibrary.settings')
